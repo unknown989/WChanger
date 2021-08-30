@@ -11,7 +11,7 @@ the most simplest window wallpaper changer
 * ``user32``
 * ``kernel32``
 * ``comctl32``
-* ``lcomdlg32``
+* ``comdlg32``
 
 ## Contact
 Check my github account for the contact methods ,and do let me know if there's a bug
